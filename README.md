@@ -6,7 +6,7 @@ objectives :
 - [x] taking image of any objects it detects
 - [x] alarm system
 
-#results
+# results
 ![alt text](https://github.com/amousavi9/security-camera-using-opencv/blob/main/results/img-res1.jpg??raw=true "motion detection")
 
 ![alt text](https://github.com/amousavi9/security-camera-using-opencv/blob/main/results/img-res2.jpg??raw=true "taking image of any objects it detects")
