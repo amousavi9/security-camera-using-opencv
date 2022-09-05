@@ -7,5 +7,5 @@ objectives :
 - [x] alarm system
 
 #results
-![alt text](https://github.com/[amousavi9]/[security-camera-using-opencv]/[results]/img-res1.jpg?raw=true)
-![alt text](https://github.com/[amousavi9]/[security-camera-using-opencv]/[results]/img-res2.jpg?raw=true)
+![alt text]([https://github.com/amousavi9/security-camera-using-opencv/results/img-res1.jpg](https://github.com/amousavi9/security-camera-using-opencv/blob/main/results/img-res1.jpg?raw=true)
+![alt text]([https://github.com/amousavi9/security-camera-using-opencv/results/img-res1.jpg](https://github.com/amousavi9/security-camera-using-opencv/blob/main/results/img-res2.jpg?raw=true)
